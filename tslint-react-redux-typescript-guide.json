@@ -1,0 +1,3 @@
+{
+  "extends": ["react-redux-typescript-scripts/tslint-recommended.json"]
+}
